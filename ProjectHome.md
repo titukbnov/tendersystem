@@ -1,0 +1,1 @@
+Web based tender system to source, award and manage the total procurement process. Leverages supply and demand, through reverse auction, ensuring that goods are bought at the best possible price. Developed in PHP with MySQL/PostgreSQL database
